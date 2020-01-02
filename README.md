@@ -1,14 +1,15 @@
 # Pictrade
 
-#Auteur :
-ORY Robin,
-BERNARD Quentin,
-PORTAL Lucas,
-CARRIÈRES Adrian-Paul,
+# Auteur :
+
+* ORY Robin
+* BERNARD Quentin
+* PORTAL Lucas
+* CARRIÈRES Adrian-Paul
 
 
-#github du serveur: https://github.com/Thorekt/PicTradeServeur
+## Autres liens : 
 
-src pour le bouton menu : https://github.com/Clans/FloatingActionButton  .
-
-lien video de presentation : https://youtu.be/JXhGkuDiEFY
+* Github pour le server-side : https://github.com/Thorekt/PicTradeServeur
+* Source pour le bouton menu : https://github.com/Clans/FloatingActionButton  .
+* Lien video de presentation : https://youtu.be/JXhGkuDiEFY
